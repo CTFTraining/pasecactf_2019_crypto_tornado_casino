@@ -1,0 +1,9 @@
+version: '3.3'
+
+services:
+  crypto:
+    build: .
+    image: ctftraining/pasecactf_2019_crypto_tornado_casino
+    ports:
+        - "127.0.0.1:7626:1337"
+
