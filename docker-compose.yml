@@ -5,5 +5,6 @@ services:
     build: .
     image: ctftraining/paseca_2019_tornado_casino
     ports:
-        - "127.0.0.1:7626:1337"
-
+      - "127.0.0.1:7626:1337"
+    environment:
+      - FLAG=flag{flag_test}
