@@ -15,7 +15,7 @@
 
 ## 题目说明
 - flag位于files/flag中，Docker中位于/service/flag中。
-- 部署时需要给出casino.py。
+- 部署时需要给出[casino.py](https://github.com/Tiaonmmn/pasecactf_2019_crypto_tornado_casino/blob/master/casino.py)。
 
 ## 版权
 
